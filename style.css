@@ -548,6 +548,7 @@ button {
   .left-text,
   .right-button {
     text-align: center;
+    font-size: 20px;
   }
   .right-button {
     margin-top: 0px;
