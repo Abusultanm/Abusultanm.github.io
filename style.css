@@ -295,7 +295,7 @@ body {
 .menu-title {
   font-family: "Tinos", serif;
   font-size: 40px;
-  width: 400px;
+  text-align: center;
   color: white;
   padding-top: 90px;
   padding-left: 340px;
